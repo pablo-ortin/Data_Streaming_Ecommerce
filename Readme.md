@@ -1,6 +1,6 @@
 # Data Streaming -Simulation of Purchases in Ecommerce
 
-![PHP](images/Druid1.jpg)
+![PHP](images/Flowchart.jpg)
 
 
 ## Project Description
@@ -39,12 +39,12 @@ This project aims to provide real-time data visualizations using the tehcnologie
 
 * While the messages are going to your Confluent Kafka Cloud topic you now need to connect with Apache Druid to see the data as an SQL Table and make queries in real time to see how the data behaves.
 
-![](images/Druid1.png)
+![](images/Druid1.jpg)
 
 
 ---
 
-![](images/Druid2.png)
+![](images/Druid2.jpg)
 
 
 
@@ -66,7 +66,7 @@ WHERE Status = 'COMPLETED'
 
 ---
 
-![](images/Grafana1.png)
+![](images/Grafana1.jpg)
 
 
 ----
