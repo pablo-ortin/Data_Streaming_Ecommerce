@@ -1,6 +1,6 @@
 # Data Streaming -Simulation of Purchases in Ecommerce
 
-![PHP](images/Flowchart.jpg)
+![PHP](images/Druid1.jpg)
 
 
 ## Project Description
